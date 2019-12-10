@@ -4,7 +4,7 @@ import java.util.Collections;
 public class SCAN {
 	    
 	    
-	    public void memes(int head, ArrayList<Integer> arr) {
+	    public void findSum(int head, ArrayList<Integer> arr) {
 	        int prev = (int)(Math.random()*4999);
 	       
 	        
