@@ -3,7 +3,7 @@ import java.util.Collections;
 
 public class SCAN {
 	    
-	    
+	    //findSum done by Tarik
 	    public void findSum(int head, ArrayList<Integer> arr) {
 	        int prev = (int)(Math.random()*4999);
 	       
