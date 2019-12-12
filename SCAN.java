@@ -37,7 +37,8 @@ public class SCAN {
 	        }
 	        
 	        sum += arr.get(upper);
-	        
+	        //distance of head tracking: Kevin J.
+			
 	        for(int i = upper; i < arr.size() -2; i++) {
 	            sum += arr.get(i + 1) - arr.get(i); 
 	        }
