@@ -1,6 +1,6 @@
 
 
-// Authors name : Saiful Islam 
+// Jordan Roman 
 package operationgsystemshw;
 
 import java.util.Random;
