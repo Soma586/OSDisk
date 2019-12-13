@@ -11,6 +11,14 @@ public class Driver {
 		SSTF st = new SSTF();
 		SCAN sc = new SCAN();
 		
+		//done by Tarik
+		ArrayList<Integer> arr = new ArrayList<Integer>();
+		for(int i =0; i < 1000; i++){
+		    int num = (int)(Math.random()*4999);
+		    arr.add(num);
+		}
+		sc.findSum(2150,arr);
+		
 
 	}
 
